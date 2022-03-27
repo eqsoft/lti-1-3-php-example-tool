@@ -1,6 +1,6 @@
 <?php
 echo json_encode([
-    "id" => "http://localhost:9001/platform/nrps.php",
+    "id" => "https://ltitool.example.com/platform/nrps.php",
     "members" => [
         [
             "status" => "Active",
